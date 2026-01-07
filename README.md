@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Sardor 👋
 
-<!--
-**SadiFrontend/SadiFrontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Front-end developer & Arch Linux specialist  
+- Focus on minimal setups and clean code  
 
-Here are some ideas to get you started:
+## Skills
+- HTML  
+- CSS  
+- JavaScript (did not learn yet)  
+- Linux (Arch only)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [GitHub](https://github.com/SadiFrontend)
+- .[gmail](mailto:yachiter1112@gmail.com)
+
+ 
