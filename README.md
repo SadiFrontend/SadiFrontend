@@ -8,7 +8,7 @@
 - HTML  
 - CSS  
 - JavaScript (did not learn yet)  
-- Linux (Arch only)  
+- Linux (Artix)  
 
 ## Contact
 - [GitHub](https://github.com/SadiFrontend)
