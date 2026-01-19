@@ -1,14 +1,14 @@
 # Hi, I'm Sardor 👋
 
 ## About Me
-- Front-end developer & Arch Linux specialist  
+- Front-end developer &  Linux specialist  
 - Focus on minimal setups and clean code  
 
 ## Skills
 - HTML  
 - CSS  
 - JavaScript (did not learn yet)  
-- Linux (Artix)  
+- Linux (Nix-Os)  
 
 ## Contact
 - [GitHub](https://github.com/SadiFrontend)
