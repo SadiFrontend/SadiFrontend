@@ -6,8 +6,7 @@
 
 ## Skills
 - HTML  
-- CSS  
-- JavaScript (did not learn yet)  
+- CSS   
 - Linux (Nix-Os)  
 
 ## Contact
