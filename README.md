@@ -1,16 +1,30 @@
-# Hi, I'm Sardor 👋
+# hey 👋
 
-## About Me
-- Front-end developer &  Linux specialist  
-- Focus on minimal setups and clean code  
+i write code and use arch btw
 
-## Skills
-- HTML  
-- CSS   
-- Linux (Nix-Os)  
+```
+$ neofetch
+```
 
-## Contact
-- [GitHub](https://github.com/SadiFrontend)
-- .[gmail](mailto:yachiter1112@gmail.com)
+**what i do**
+```
+→ build stuff that works
+→ break stuff that doesn't
+→ fix it with duct tape and stackoverflow
+```
 
- 
+**stack**
+```
+python • c • c++ • lua • docker
+vim • tmux • git • arch linux
+```
+
+**find me**
+```
+github.com/SadiFrontend
+yachiter1112@gmail.com
+```
+
+---
+
+*i use arch btw*
