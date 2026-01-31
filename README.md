@@ -30,7 +30,7 @@ i write code and use arch btw
 
 **stack**
 ```
-python • c • c++ • lua • docker
+html • css • python • c • c++ • lua • docker
 vim • tmux • git • arch linux
 ```
 
