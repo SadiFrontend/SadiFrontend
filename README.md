@@ -3,7 +3,22 @@
 i write code and use arch btw
 
 ```
-$ neofetch
+
+
+       _,--._.-,                 sadi@Sadi-btw
+      /\_/-,\_ )
+   .-.) _;=='_/ (.;                Arch Linux x86_64
+    \ \'      \/= )                Linux 6.18.6-zen1-1-zen
+     -\.'-. __.'|-'                538 (pacman)
+    <_`-'\'__.'/                   zsh 5.9
+      `'-._( \                     foot 1.25.0
+       ___   \\\,      ___         mango (Wayland)
+       \ .'-. \\\   .-'_. /        1 hour, 59 mins
+        '._' '.\\\/.-'_.'
+           '--``\\('--'                                  
+                 \\\                                     
+                 `\\\
+                   \\|
 ```
 
 **what i do**
