@@ -1,6 +1,6 @@
-# hey 👋
+# Sup 👋
 
-i write code and use arch btw
+i write code btw
 
 ```
 
@@ -33,4 +33,4 @@ yachiter1112@gmail.com
 
 ---
 
-*i use arch btw*
+*i use arch btw* (mb nix os too)
