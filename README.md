@@ -44,4 +44,4 @@ yachiter1112@gmail.com
 
 ---
 
-*i use arch btw* (mb nix os too)
+*i use gentoo btw*
