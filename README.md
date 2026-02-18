@@ -1,5 +1,3 @@
-# Sup 👋
-
 i use gentoo btw
 
 ```
